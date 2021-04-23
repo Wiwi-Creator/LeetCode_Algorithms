@@ -44,6 +44,6 @@
 ```
 
 
-Get more problems from it : https://leetcode.com/problemset/database/
+Get more problems from it : https://leetcode.com/problemset/all/
 
 
