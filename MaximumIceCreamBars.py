@@ -15,3 +15,6 @@ def maxIceCream(costs, coins) :
     return  count 
 
 print("You can buy " , maxIceCream(A , B) , "kinds of ice cream !")
+
+
+
