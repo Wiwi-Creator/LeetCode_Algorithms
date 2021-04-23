@@ -16,3 +16,5 @@ def numJewelsInStones(jewels, stones) :
     return sum  
     
 print("符合其成分 : " , numJewelsInStones(jewels , stones) "種")
+
+
