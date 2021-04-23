@@ -34,24 +34,41 @@
 
 #  Problems_Alogrithms 
 ***
+#  01.Running Sum Of 1d Array
 ```markdown
 
-
+# 1480.
 # With Python
-# 01.
-# 02. 
-# 03.
-# 04.
-# 05.
-# 06.
-# 07.
-# 08.
-# 09.
-# 10.
+
+
+Input: nums = [1,2,3,4]
+
+Output: [1,3,6,10]
+
+Explanation: Running sum is obtained as follows: [1, 1+2, 1+2+3, 1+2+3+4].
+
+Example 2:
+
+Input: nums = [1,1,1,1,1]
+
+Output: [1,2,3,4,5]
+
+Explanation: Running sum is obtained as follows: [1, 1+1, 1+1+1, 1+1+1+1, 1+1+1+1+1].
+
+Example 3:
+
+Input: nums = [3,1,2,10,1]
+
+Output: [3,4,6,16,17]
+
+---------------------------------------------------------------------------------------
+
+My Solution On underline↓
 
 
 ```
 
+[01.RunningSumOf1dArray]
 
 Get more problems from it : https://leetcode.com/problemset/all/
 
