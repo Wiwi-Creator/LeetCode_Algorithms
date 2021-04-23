@@ -1,4 +1,4 @@
-# Leetcode 
+# Leetcode_Alogrithms 
 
 #  Introduction
 ***
@@ -23,7 +23,7 @@
 
 ```
 
-#  Problems
+#  Problems_Alogrithms 
 ***
 ```markdown
 
