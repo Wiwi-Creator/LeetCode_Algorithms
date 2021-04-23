@@ -39,6 +39,7 @@
 
 # 1480.
 # With Python
+# Difficuly : Eazy
 
 
 Input: nums = [1,2,3,4]
@@ -75,7 +76,7 @@ My Solution : [01.RunningSumOf1dArray](https://github.com/Wiwi-Creator/LeetCode_
 
 # 771.
 # With Python
-
+# Difficuly : Eazy
 
 You're given strings jewels representing the types of stones that are jewels, and stones representing the stones you have. 
 Each character in stones is a type of stone you have. You want to know how many of the stones you have are also jewels.
