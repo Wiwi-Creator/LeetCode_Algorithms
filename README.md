@@ -1,4 +1,4 @@
-# Leetcode_Alogrithms 
+# LeetCode_Alogrithms 
 
 #  Introduction
 ***
