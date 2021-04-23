@@ -106,7 +106,7 @@ My Solution On underline↓
 
 ```
 
-My Solution : [02.JewelsAndStones]()
+My Solution : [02.JewelsAndStones](https://github.com/Wiwi-Creator/LeetCode_Algorithms/blob/main/JewelsAndStones.py)
 
 Get more problems from it : https://leetcode.com/problemset/all/
 
