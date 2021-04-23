@@ -68,7 +68,7 @@ My Solution On underline↓
 
 ```
 
-[01.RunningSumOf1dArray](https://github.com/Wiwi-Creator/LeetCode_Algorithms/blob/main/RunningSumOf1dArray.py)
+My Solution : [01.RunningSumOf1dArray](https://github.com/Wiwi-Creator/LeetCode_Algorithms/blob/main/RunningSumOf1dArray.py)
 
 Get more problems from it : https://leetcode.com/problemset/all/
 
