@@ -230,7 +230,7 @@ My Solution On underline↓
 
 ```
 
-My Solution :[04.PalindromeNumber]()
+My Solution :[04.PalindromeNumber](https://github.com/Wiwi-Creator/LeetCode_Algorithms/blob/main/PalindromeNumber.py)
 
 
 Get more problems from it : https://leetcode.com/problemset/all/
