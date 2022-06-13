@@ -196,6 +196,42 @@ My Solution On underline↓
 
 My Solution :[04.Maximum69Number]()
 
+#  05. Palondrome Number
+```markdown
+
+# 9.
+# With Python
+# Difficuly : Eazy
+
+Given a positive integer num consisting only of digits 6 and 9.
+
+Return the maximum number you can get by changing at most one digit (6 becomes 9, and 9 becomes 6).
+
+Example 1:
+
+Input: x = 121
+Output: true
+Explanation: 121 reads as 121 from left to right and from right to left.
+Example 2:
+
+Input: x = -121
+Output: false
+Explanation: From left to right, it reads -121. From right to left, it becomes 121-. Therefore it is not a palindrome.
+Example 3:
+
+Input: x = 10
+Output: false
+Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
+
+---------------------------------------------------------------------------------------
+
+My Solution On underline↓
+
+
+```
+
+My Solution :[04.PalindromeNumber]()
+
 
 Get more problems from it : https://leetcode.com/problemset/all/
 
