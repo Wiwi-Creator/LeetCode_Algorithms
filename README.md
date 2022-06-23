@@ -261,7 +261,7 @@ My Solution On underline↓
 
 ```
 
-My Solution :[06.LonestCommonPrefix]()
+My Solution :[06.LonestCommonPrefix](https://github.com/Wiwi-Creator/LeetCode_Algorithms/blob/main/LongestCommonPrefix.py)
 
 Get more problems from it : https://leetcode.com/problemset/all/
 
