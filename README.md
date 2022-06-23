@@ -241,7 +241,6 @@ My Solution :[04.PalindromeNumber](https://github.com/Wiwi-Creator/LeetCode_Algo
 # Difficuly : Eazy
 
 Write a function to find the longest common prefix string amongst an array of strings.
-
 If there is no common prefix, return an empty string "".
 
 
@@ -262,7 +261,7 @@ My Solution On underline↓
 
 ```
 
-My Solution :[06.PalindromeNumber]()
+My Solution :[06.LonestCommonPrefix]()
 
 Get more problems from it : https://leetcode.com/problemset/all/
 
